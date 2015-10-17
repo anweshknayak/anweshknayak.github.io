@@ -4,12 +4,12 @@ baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
 url: "http://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anwesh Nayak
+username: Lorem Ipsum
 user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: NooB Developer
-email: anweshknayak@gmail.com
+user_title: Anon Developer
+email: anon@anon.com
 twitter_username: lorem_ipsum
-github_username:  https://github.com/anweshknayak
+github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
 disqus_username: lorem_ipsum
 
